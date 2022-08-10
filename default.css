@@ -14,7 +14,6 @@
     --previewShadow:#f0ead6;
 
     --buttonColor:black;
-
 }
 
 html, body{
@@ -363,12 +362,16 @@ h6 { font-size: 16px;}
 
 #submit_btn{
     margin-top: 10px;
-    width: 100%;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding-top: 10px;
     padding-bottom: 10px;
     color: #fff;
     background-color: var(--buttonColor);
     border: none;
+    cursor:pointer;
 }
 
 @media screen and (max-width: 1200px) {
