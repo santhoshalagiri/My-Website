@@ -1,5 +1,20 @@
 # My-Website
-It's my personal portfolio
+
+It's my personal portfolio that I designed during the Summer break.
+
+I learned how to code in HTML, CSS and JavaScript and designed this website. 
+
+My portfolio has,
+
+1. Color changing options. (feel free to press those buttons)
+
+2. LinkedIn Profile
+
+3. Github Profile
+
+4. Screenshot of my LinkedIn Recommendations
+
+5. List of all of the few projects that I've completed and working on..
 
 
 
